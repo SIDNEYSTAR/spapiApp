@@ -1,0 +1,37 @@
+C:\VC Program\SP_VC\spapiApp64\spapiApp\bin\x64\Debug\spapiApp.exe.config
+C:\VC Program\SP_VC\spapiApp64\spapiApp\bin\x64\Debug\spapiApp.exe
+C:\VC Program\SP_VC\spapiApp64\spapiApp\bin\x64\Debug\spapiApp.pdb
+C:\VC Program\SP_VC\spapiApp64\spapiApp\obj\x64\Debug\spapiApp.frmInput.resources
+C:\VC Program\SP_VC\spapiApp64\spapiApp\obj\x64\Debug\spapiApp.frmLogin.resources
+C:\VC Program\SP_VC\spapiApp64\spapiApp\obj\x64\Debug\spapiApp.frmMain.resources
+C:\VC Program\SP_VC\spapiApp64\spapiApp\obj\x64\Debug\spapiApp.Properties.Resources.resources
+C:\VC Program\SP_VC\spapiApp64\spapiApp\obj\x64\Debug\spapiApp64.csproj.GenerateResource.Cache
+C:\VC Program\SP_VC\spapiApp64\spapiApp\obj\x64\Debug\spapiApp.exe
+C:\VC Program\SP_VC\spapiApp64\spapiApp\obj\x64\Debug\spapiApp.pdb
+C:\VC Program\SP_VC\spapiApp64\spapiApp\obj\x64\Debug\spapiApp64.csprojResolveAssemblyReference.cache
+C:\Users\hooah\Desktop\spapiApp64\spapiApp\bin\x64\Debug\spapiApp.exe.config
+C:\Users\hooah\Desktop\spapiApp64\spapiApp\bin\x64\Debug\spapiApp.exe
+C:\Users\hooah\Desktop\spapiApp64\spapiApp\bin\x64\Debug\spapiApp.pdb
+C:\Users\hooah\Desktop\spapiApp64\spapiApp\obj\x64\Debug\spapiApp64.csprojAssemblyReference.cache
+C:\Users\hooah\Desktop\spapiApp64\spapiApp\obj\x64\Debug\spapiApp.frmInput.resources
+C:\Users\hooah\Desktop\spapiApp64\spapiApp\obj\x64\Debug\spapiApp.frmLogin.resources
+C:\Users\hooah\Desktop\spapiApp64\spapiApp\obj\x64\Debug\spapiApp.frmMain.resources
+C:\Users\hooah\Desktop\spapiApp64\spapiApp\obj\x64\Debug\spapiApp.Properties.Resources.resources
+C:\Users\hooah\Desktop\spapiApp64\spapiApp\obj\x64\Debug\spapiApp64.csproj.GenerateResource.cache
+C:\Users\hooah\Desktop\spapiApp64\spapiApp\obj\x64\Debug\spapiApp64.csproj.CoreCompileInputs.cache
+C:\Users\hooah\Desktop\spapiApp64\spapiApp\obj\x64\Debug\spapiApp.exe
+C:\Users\hooah\Desktop\spapiApp64\spapiApp\obj\x64\Debug\spapiApp.pdb
+C:\Users\hooah\Desktop\spapiApp64\spapiApp\bin\x64\Debug\ExcelReport.dll
+C:\Users\hooah\Desktop\spapiApp64\spapiApp\bin\x64\Debug\ExcelUtility.dll
+C:\Users\hooah\Desktop\spapiApp64\spapiApp\bin\x64\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\hooah\Desktop\spapiApp64\spapiApp\bin\x64\Debug\NPOI.dll
+C:\Users\hooah\Desktop\spapiApp64\spapiApp\bin\x64\Debug\NPOI.Extend.dll
+C:\Users\hooah\Desktop\spapiApp64\spapiApp\bin\x64\Debug\NPOI.OOXML.dll
+C:\Users\hooah\Desktop\spapiApp64\spapiApp\bin\x64\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\hooah\Desktop\spapiApp64\spapiApp\bin\x64\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\hooah\Desktop\spapiApp64\spapiApp\bin\x64\Debug\NPOI.OpenXml4Net.dll
+C:\Users\hooah\Desktop\spapiApp64\spapiApp\bin\x64\Debug\NPOI.xml
+C:\Users\hooah\Desktop\spapiApp64\spapiApp\bin\x64\Debug\NPOI.OOXML.xml
+C:\Users\hooah\Desktop\spapiApp64\spapiApp\bin\x64\Debug\NPOI.OpenXml4Net.xml
+C:\Users\hooah\Desktop\spapiApp64\spapiApp\obj\x64\Debug\spapiApp64.csproj.CopyComplete
+C:\Users\hooah\Desktop\spapiApp64\spapiApp\obj\x64\Debug\spapiApp.Login.resources

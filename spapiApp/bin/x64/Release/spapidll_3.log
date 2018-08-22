@@ -1,0 +1,54 @@
+2015/06/10 16:46:20.348: Start Connect (Host: 202.153.106.235:8081)... 
+2015/06/10 16:46:20.348: TServer Login Status: 1 
+2015/06/10 16:46:20.503: TServer Login Status: 2 
+2015/06/10 16:46:20.506: TServer Login Status: 4 
+2015/06/10 16:46:20.576: (AE Mode)PServer Login Status: HostId#83, Stat=11 
+2015/06/10 16:46:20.580: (AE Mode)PServer Login Status: HostId#87, Stat=11 
+2015/06/10 16:46:20.582: (AE Mode)PServer Login Status: HostId#88, Stat=11 
+0000/00/00 00:00:00.583: (AE Mode)TServer Login Status: 5 
+2015/06/10 16:46:20.663: (AE Mode)Login OK ! 
+2015/06/10 16:46:20.666: (AE Mode)Load Data End: acc:, mask:128 
+2015/06/10 16:46:20.682: (AE Mode)Load Data End: acc:, mask:64 
+2015/06/10 16:46:20.683: (AE Mode)Load AE Data Reply: acc:, ae:, mask:256, return:0 
+2015/06/10 16:46:20.683: (AE Mode)PServer Login Status: HostId#83, Stat=1 
+2015/06/10 16:46:20.685: (AE Mode)PServer Login Status: HostId#87, Stat=1 
+2015/06/10 16:46:20.687: (AE Mode)PServer Login Status: HostId#88, Stat=1 
+2015/06/10 16:46:20.718: (AE Mode)PServer Login Status: HostId#83, Stat=4 
+2015/06/10 16:46:20.722: (AE Mode)PServer Login Status: HostId#87, Stat=4 
+2015/06/10 16:46:20.727: (AE Mode)PServer Login Status: HostId#88, Stat=4 
+2015/06/10 16:46:20.786: (AE Mode)PServer Login Status: HostId#83, Stat=5 
+2015/06/10 16:46:20.808: (AE Mode)PServer Login Status: HostId#88, Stat=5 
+2015/06/10 16:46:20.812: (AE Mode)PServer Login Status: HostId#87, Stat=5 
+2015/06/10 16:46:26.565: (AE Mode)Account Logging in ... 
+2015/06/10 16:46:26.618: (AE Mode)Account OK! 
+2015/06/10 16:46:26.620: (AE Mode)Load Data End: acc:1004, mask:2 
+2015/06/10 16:46:26.648: (AE Mode)Load Data End: acc:1004, mask:4 
+2015/06/10 16:46:26.650: (AE Mode)Load Data End: acc:1004, mask:8 
+2015/06/10 16:46:26.651: (AE Mode)Clear Trade:Sender#KC O#2778 #1 S1 x 26809 (, ) CliOrd#  
+2015/06/10 16:46:26.685: (AE Mode)Clear Trade:Sender#KC O#2779 #2 S1 x 26809 (, ) CliOrd#  
+2015/06/10 16:46:26.727: (AE Mode)Clear Trade:Sender#KC O#2780 #3 S1 x 26809 (, ) CliOrd#  
+2015/06/10 16:46:26.760: (AE Mode)Clear Trade:Sender#KC O#2781 #4 S1 x 26807 (, ) CliOrd#  
+2015/06/10 16:46:26.793: (AE Mode)Clear Trade:Sender#KC O#2782 #5 S1 x 26807 (, ) CliOrd#  
+2015/06/10 16:46:26.834: (AE Mode)Clear Trade:Sender#KC O#2783 #6 S1 x 26808 (, ) CliOrd#  
+2015/06/10 16:46:26.871: (AE Mode)Clear Trade:Sender#KC O#2784 #7 S1 x 26808 (, ) CliOrd#  
+2015/06/10 16:46:26.906: (AE Mode)Clear Trade:Sender#KC O#2785 #8 S1 x 26807 (, ) CliOrd#  
+2015/06/10 16:46:26.943: (AE Mode)Clear Trade:Sender#KC O#2786 #9 S1 x 26807 (, ) CliOrd#  
+2015/06/10 16:46:26.980: (AE Mode)Clear Trade:Sender#KC O#2787 #10 S1 x 26807 (, ) CliOrd#  
+2015/06/10 16:46:27.014: (AE Mode)Clear Trade:Sender#KC O#2788 #11 S1 x 26807 (, ) CliOrd#  
+2015/06/10 16:46:27.048: (AE Mode)Clear Trade:Sender#KC O#2789 #12 S1 x 26808 (, ) CliOrd#  
+2015/06/10 16:46:27.100: (AE Mode)Clear Trade:Sender#KC O#2790 #13 S1 x 26808 (, ) CliOrd#  
+2015/06/10 16:46:27.150: (AE Mode)Clear Trade:Sender#KC O#2791 #14 S1 x 26808 (, ) CliOrd#  
+2015/06/10 16:46:27.183: (AE Mode)Clear Trade:Sender#KC O#2792 #15 S1 x 26808 (, ) CliOrd#  
+2015/06/10 16:46:27.229: (AE Mode)Clear Trade:Sender#KC O#2793 #16 S1 x 26808 (, ) CliOrd#  
+2015/06/10 16:46:27.275: (AE Mode)Clear Trade:Sender#KC O#2794 #17 S1 x 26808 (, ) CliOrd#  
+2015/06/10 16:46:27.320: (AE Mode)Clear Trade:Sender#KC O#2795 #18 S1 x 26809 (, ) CliOrd#  
+2015/06/10 16:46:27.367: (AE Mode)Clear Trade:Sender#KC O#2796 #19 S1 x 26809 (, ) CliOrd#  
+2015/06/10 16:46:27.414: (AE Mode)Clear Trade:Sender#KC O#2797 #20 S1 x 26809 (, ) CliOrd#  
+0000/00/00 00:00:00.599: (AE Mode)TServer Login Status: 6 
+2015/06/10 16:46:33.602: (AE Mode)PServer Login Status: HostId#83, Stat=6 
+2015/06/10 16:46:33.608: (AE Mode)PServer Login Status: HostId#87, Stat=6 
+2015/06/10 16:46:33.612: (AE Mode)PServer Login Status: HostId#88, Stat=6 
+0000/00/00 00:00:00.615: (AE Mode)Start Logout ... 
+2015/06/10 16:46:33.630: (AE Mode)Logout OK! 
+2015/06/10 16:46:33.633: (AE Mode)TServer Login Status: 7 
+2015/06/10 16:46:33.649: (AE Mode)PServer Login Status: HostId#83, Stat=7 

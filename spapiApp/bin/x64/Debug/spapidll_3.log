@@ -1,0 +1,91 @@
+2015/06/10 16:45:02.142: Start Connect (Host: 202.153.106.235:8081)... 
+2015/06/10 16:45:02.144: TServer Login Status: 1 
+2015/06/10 16:45:02.274: TServer Login Status: 2 
+2015/06/10 16:45:02.317: TServer Login Status: 4 
+2015/06/10 16:45:02.352: (AE Mode)PServer Login Status: HostId#83, Stat=11 
+2015/06/10 16:45:02.356: (AE Mode)PServer Login Status: HostId#87, Stat=11 
+2015/06/10 16:45:02.358: (AE Mode)PServer Login Status: HostId#88, Stat=11 
+0000/00/00 00:00:00.359: (AE Mode)TServer Login Status: 5 
+2015/06/10 16:45:02.364: (AE Mode)Login OK ! 
+2015/06/10 16:45:02.387: (AE Mode)Load Data End: acc:, mask:128 
+2015/06/10 16:45:02.464: (AE Mode)Load Data End: acc:, mask:64 
+2015/06/10 16:45:02.466: (AE Mode)Load AE Data Reply: acc:, ae:, mask:256, return:0 
+2015/06/10 16:45:02.468: (AE Mode)PServer Login Status: HostId#83, Stat=1 
+2015/06/10 16:45:02.621: (AE Mode)PServer Login Status: HostId#87, Stat=1 
+2015/06/10 16:45:02.636: (AE Mode)PServer Login Status: HostId#88, Stat=1 
+2015/06/10 16:45:02.903: (AE Mode)PServer Login Status: HostId#83, Stat=4 
+2015/06/10 16:45:02.906: (AE Mode)PServer Login Status: HostId#87, Stat=4 
+2015/06/10 16:45:02.909: (AE Mode)PServer Login Status: HostId#88, Stat=4 
+2015/06/10 16:45:03.094: (AE Mode)PServer Login Status: HostId#83, Stat=5 
+2015/06/10 16:45:03.097: (AE Mode)PServer Login Status: HostId#87, Stat=5 
+2015/06/10 16:45:03.101: (AE Mode)PServer Login Status: HostId#88, Stat=5 
+2015/06/10 16:45:12.351: (AE Mode)Account Logging in ... 
+2015/06/10 16:45:12.479: (AE Mode)Account OK! 
+2015/06/10 16:45:12.481: (AE Mode)Load Data End: acc:1004, mask:2 
+2015/06/10 16:45:12.484: (AE Mode)Load Data End: acc:1004, mask:4 
+2015/06/10 16:45:12.485: (AE Mode)Load Data End: acc:1004, mask:8 
+2015/06/10 16:45:12.487: (AE Mode)Clear Trade:Sender#KC O#2778 #1 S1 x 26809 (, ) CliOrd#  
+2015/06/10 16:45:12.523: (AE Mode)Clear Trade:Sender#KC O#2779 #2 S1 x 26809 (, ) CliOrd#  
+2015/06/10 16:45:12.569: (AE Mode)Clear Trade:Sender#KC O#2780 #3 S1 x 26809 (, ) CliOrd#  
+2015/06/10 16:45:12.610: (AE Mode)Clear Trade:Sender#KC O#2781 #4 S1 x 26807 (, ) CliOrd#  
+2015/06/10 16:45:12.654: (AE Mode)Clear Trade:Sender#KC O#2782 #5 S1 x 26807 (, ) CliOrd#  
+2015/06/10 16:45:12.688: (AE Mode)Clear Trade:Sender#KC O#2783 #6 S1 x 26808 (, ) CliOrd#  
+2015/06/10 16:45:12.731: (AE Mode)Clear Trade:Sender#KC O#2784 #7 S1 x 26808 (, ) CliOrd#  
+2015/06/10 16:45:12.764: (AE Mode)Clear Trade:Sender#KC O#2785 #8 S1 x 26807 (, ) CliOrd#  
+2015/06/10 16:45:12.802: (AE Mode)Clear Trade:Sender#KC O#2786 #9 S1 x 26807 (, ) CliOrd#  
+2015/06/10 16:45:12.850: (AE Mode)Clear Trade:Sender#KC O#2787 #10 S1 x 26807 (, ) CliOrd#  
+2015/06/10 16:45:12.889: (AE Mode)Clear Trade:Sender#KC O#2788 #11 S1 x 26807 (, ) CliOrd#  
+2015/06/10 16:45:12.938: (AE Mode)Clear Trade:Sender#KC O#2789 #12 S1 x 26808 (, ) CliOrd#  
+2015/06/10 16:45:12.981: (AE Mode)Clear Trade:Sender#KC O#2790 #13 S1 x 26808 (, ) CliOrd#  
+2015/06/10 16:45:13.015: (AE Mode)Clear Trade:Sender#KC O#2791 #14 S1 x 26808 (, ) CliOrd#  
+2015/06/10 16:45:13.053: (AE Mode)Clear Trade:Sender#KC O#2792 #15 S1 x 26808 (, ) CliOrd#  
+2015/06/10 16:45:13.090: (AE Mode)Clear Trade:Sender#KC O#2793 #16 S1 x 26808 (, ) CliOrd#  
+2015/06/10 16:45:13.124: (AE Mode)Clear Trade:Sender#KC O#2794 #17 S1 x 26808 (, ) CliOrd#  
+2015/06/10 16:45:13.172: (AE Mode)Clear Trade:Sender#KC O#2795 #18 S1 x 26809 (, ) CliOrd#  
+2015/06/10 16:45:13.215: (AE Mode)Clear Trade:Sender#KC O#2796 #19 S1 x 26809 (, ) CliOrd#  
+2015/06/10 16:45:13.248: (AE Mode)Clear Trade:Sender#KC O#2797 #20 S1 x 26809 (, ) CliOrd#  
+2015/06/10 16:45:26.737: (AE Mode)TServer Login Status: 6 
+2015/06/10 16:45:26.741: (AE Mode)PServer Login Status: HostId#83, Stat=6 
+2015/06/10 16:45:26.747: (AE Mode)PServer Login Status: HostId#87, Stat=6 
+2015/06/10 16:45:26.748: (AE Mode)PServer Login Status: HostId#88, Stat=6 
+2015/06/10 16:45:26.749: (AE Mode)Start Logout ... 
+2015/06/10 16:45:26.768: (AE Mode)Logout OK! 
+2015/06/10 16:45:26.770: (AE Mode)TServer Login Status: 7 
+2018/08/15 17:24:38.461: Start Connect (Host: demo.spsystem.info:80)... 
+2018/08/15 17:24:38.463: TServer Login Status: 1 
+2018/08/15 17:24:38.539: TServer Login Status: 2 
+2018/08/15 17:24:38.573: TServer Login Status: 4 
+2018/08/15 17:24:38.592: PServer Login Status: HostId#83, Stat=11 
+2018/08/15 17:24:38.595: PServer Login Status: HostId#87, Stat=11 
+2018/08/15 17:24:38.597: PServer Login Status: HostId#88, Stat=11 
+0000/00/00 00:00:00.598: TServer Login Status: 5 
+2018/08/15 17:24:38.607: Login OK ! 
+2018/08/15 17:24:38.617: Business Date : 1534176000 
+2018/08/15 17:24:38.665: Load Data End: acc:, mask:128 
+2018/08/15 17:24:38.728: Load Data End: acc:DEMO201807219, mask:64 
+2018/08/15 17:24:38.729: Load Data End: acc:DEMO201807219, mask:2 
+2018/08/15 17:24:38.729: Load Data End: acc:DEMO201807219, mask:4 
+2018/08/15 17:24:38.729: Load Data End: acc:DEMO201807219, mask:8 
+2018/08/15 17:24:38.731: PServer Login Status: HostId#83, Stat=1 
+2018/08/15 17:24:38.734: PServer Login Status: HostId#87, Stat=1 
+2018/08/15 17:24:38.736: PServer Login Status: HostId#88, Stat=1 
+2018/08/15 17:24:38.737: Load Data Reply: acc:DEMO201807219, mask:256, return:0 
+2018/08/15 17:24:38.748: PServer Login Status: HostId#83, Stat=4 
+2018/08/15 17:24:38.750: PServer Login Status: HostId#87, Stat=4 
+2018/08/15 17:24:38.753: PServer Login Status: HostId#88, Stat=4 
+2018/08/15 17:24:38.818: PServer Login Status: HostId#83, Stat=5 
+2018/08/15 17:24:38.823: PServer Login Status: HostId#87, Stat=5 
+2018/08/15 17:24:38.826: PServer Login Status: HostId#88, Stat=5 
+0000/00/00 00:00:00.276: TServer Login Status: 6 
+2018/08/15 17:24:46.277: PServer Login Status: HostId#83, Stat=6 
+2018/08/15 17:24:46.278: PServer Login Status: HostId#87, Stat=6 
+2018/08/15 17:24:46.278: PServer Login Status: HostId#88, Stat=6 
+2290/10/29 06:21:18.279: Start Logout ... 
+2018/08/15 17:24:46.345: PServer Login Status: HostId#83, Stat=7 
+2018/08/15 17:24:46.345: PServer Login Status: HostId#87, Stat=7 
+2018/08/15 17:24:46.346: PServer Login Status: HostId#88, Stat=7 
+0000/00/00 00:00:00.347: TServer Login Status: 7 
+2018/08/15 17:24:46.367: TServer Login Status: 0 
+2018/08/15 17:24:46.367: PServer Login Status: HostId#83, Stat=0 
+2018/08/15 17:24:46.368: PServer Login Status: HostId#88, Stat=0 
+2018/08/15 17:24:46.370: PServer Login Status: HostId#87, Stat=0 

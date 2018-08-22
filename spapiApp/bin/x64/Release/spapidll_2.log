@@ -1,0 +1,29 @@
+2015/09/29 14:02:25.959: Start Connect (Host: futures.spsystem.info:8081)... 
+2015/09/29 14:02:25.959: TServer Login Status: 1 
+2015/09/29 14:02:26.274: TServer Login Status: 2 
+2015/09/29 14:02:26.281: TServer Login Status: 4 
+2015/09/29 14:02:26.501: (AE Mode)PServer Login Status: HostId#83, Stat=11 
+2015/09/29 14:02:26.506: (AE Mode)PServer Login Status: HostId#87, Stat=11 
+2015/09/29 14:02:26.508: (AE Mode)PServer Login Status: HostId#88, Stat=11 
+0000/00/00 00:00:00.509: (AE Mode)TServer Login Status: 5 
+2015/09/29 14:02:26.513: (AE Mode)Login OK ! 
+2015/09/29 14:02:26.517: (AE Mode)Business Date : 1443456000 
+2015/09/29 14:02:26.630: (AE Mode)Load Data End: acc:, mask:128 
+2015/09/29 14:02:26.917: (AE Mode)Load Data End: acc:, mask:64 
+2015/09/29 14:02:26.919: (AE Mode)Load AE Data Reply: acc:, ae:, mask:256, return:0 
+2015/09/29 14:02:26.921: (AE Mode)PServer Login Status: HostId#83, Stat=1 
+2015/09/29 14:02:26.932: (AE Mode)PServer Login Status: HostId#87, Stat=1 
+2015/09/29 14:02:26.936: (AE Mode)PServer Login Status: HostId#88, Stat=1 
+2015/09/29 14:02:26.968: (AE Mode)PServer Login Status: HostId#83, Stat=4 
+2015/09/29 14:02:26.977: (AE Mode)PServer Login Status: HostId#87, Stat=4 
+2015/09/29 14:02:27.070: (AE Mode)PServer Login Status: HostId#88, Stat=4 
+2015/09/29 14:02:27.078: (AE Mode)PServer Login Status: HostId#87, Stat=5 
+2015/09/29 14:02:27.080: (AE Mode)PServer Login Status: HostId#83, Stat=5 
+2015/09/29 14:02:27.358: (AE Mode)PServer Login Status: HostId#88, Stat=5 
+2015/09/29 14:02:32.571: (AE Mode)TServer Login Status: 6 
+2015/09/29 14:02:32.574: (AE Mode)PServer Login Status: HostId#83, Stat=6 
+2015/09/29 14:02:32.579: (AE Mode)PServer Login Status: HostId#87, Stat=6 
+2015/09/29 14:02:32.582: (AE Mode)PServer Login Status: HostId#88, Stat=6 
+2015/09/29 14:02:32.587: (AE Mode)Start Logout ... 
+2015/09/29 14:02:32.624: (AE Mode)PServer Login Status: HostId#87, Stat=7 
+2015/09/29 14:02:32.625: (AE Mode)PServer Login Status: HostId#83, Stat=7 

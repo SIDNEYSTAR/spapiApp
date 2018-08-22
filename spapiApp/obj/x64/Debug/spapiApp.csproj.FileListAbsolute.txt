@@ -1,0 +1,11 @@
+C:\VC Program\SP_VC\spapiApp\spapiApp\bin\x64\Debug\spapiApp.exe.config
+C:\VC Program\SP_VC\spapiApp\spapiApp\bin\x64\Debug\spapiApp.exe
+C:\VC Program\SP_VC\spapiApp\spapiApp\bin\x64\Debug\spapiApp.pdb
+C:\VC Program\SP_VC\spapiApp\spapiApp\obj\x64\Debug\spapiApp.frmInput.resources
+C:\VC Program\SP_VC\spapiApp\spapiApp\obj\x64\Debug\spapiApp.frmLogin.resources
+C:\VC Program\SP_VC\spapiApp\spapiApp\obj\x64\Debug\spapiApp.frmMain.resources
+C:\VC Program\SP_VC\spapiApp\spapiApp\obj\x64\Debug\spapiApp.Properties.Resources.resources
+C:\VC Program\SP_VC\spapiApp\spapiApp\obj\x64\Debug\spapiApp.csproj.GenerateResource.Cache
+C:\VC Program\SP_VC\spapiApp\spapiApp\obj\x64\Debug\spapiApp.exe
+C:\VC Program\SP_VC\spapiApp\spapiApp\obj\x64\Debug\spapiApp.pdb
+C:\VC Program\SP_VC\spapiApp\spapiApp\obj\x64\Debug\spapiApp.csprojResolveAssemblyReference.cache

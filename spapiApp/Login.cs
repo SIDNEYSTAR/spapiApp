@@ -35,7 +35,7 @@ namespace spapiApp
         /// <param name="e"></param>
         private void button1_Click(object sender, EventArgs e)
         {
-            int prot = 80;    //提供  80 81 83 88这几个接口
+            int prot = Convert.ToInt32(80);    //提供  80 81 83 88这几个接口
             string license = "5B4D4BAE54479";  //5B4D4BAE54479
             string app_id = "SPDEMO";  //都是demo的特征
             //Spcommon.acc_no = txtaccid.Text;
@@ -49,7 +49,7 @@ namespace spapiApp
                 int rc;
                 Spcommon.APIDLL.R_SPAPI_SetBackgroundPoll(true);
                 Spcommon.APIDLL.R_SPAPI_SetLoginInfo(sServer, prot, license, app_id, sUserid, sPassword);
-                rc = Spcommon.APIDLL.R_SPAPI_Logine();
+                rc = Spcommon.APIDLL.R_SPAPI_Login();
                 if (rc == 0)
                 {
                     tmrLogin.Enabled = true;  
@@ -104,7 +104,9 @@ namespace spapiApp
             tmrPoll.Enabled = true;
         }
 
+        private void Login_Load_1(object sender, EventArgs e)
+        {
 
-
+        }
     }
 }

@@ -1,0 +1,25 @@
+2018/08/14 11:31:13.046: Start Connect (Host: demo.spsystem.info:80)... 
+2018/08/14 11:31:13.046: TServer Login Status: 1 
+2018/08/14 11:31:13.125: TServer Login Status: 2 
+2018/08/14 11:31:13.154: TServer Login Status: 4 
+2018/08/14 11:31:13.169: PServer Login Status: HostId#83, Stat=11 
+2018/08/14 11:31:13.170: PServer Login Status: HostId#87, Stat=11 
+2018/08/14 11:31:13.171: PServer Login Status: HostId#88, Stat=11 
+0000/00/00 00:00:00.172: TServer Login Status: 5 
+2018/08/14 11:31:13.177: Login OK ! 
+2018/08/14 11:31:13.183: Business Date : 1534089600 
+2018/08/14 11:31:13.189: Load Data End: acc:, mask:128 
+2018/08/14 11:31:13.205: Load Data End: acc:DEMO201807219, mask:64 
+2018/08/14 11:31:13.206: Load Data End: acc:DEMO201807219, mask:2 
+2018/08/14 11:31:13.207: Load Data End: acc:DEMO201807219, mask:4 
+2018/08/14 11:31:13.208: Load Data End: acc:DEMO201807219, mask:8 
+2018/08/14 11:31:13.212: PServer Login Status: HostId#83, Stat=1 
+2018/08/14 11:31:13.213: PServer Login Status: HostId#87, Stat=1 
+2018/08/14 11:31:13.214: PServer Login Status: HostId#88, Stat=1 
+2018/08/14 11:31:13.214: Load Data Reply: acc:DEMO201807219, mask:256, return:0 
+2018/08/14 11:31:13.228: PServer Login Status: HostId#88, Stat=4 
+2018/08/14 11:31:13.230: PServer Login Status: HostId#83, Stat=4 
+2018/08/14 11:31:13.230: PServer Login Status: HostId#87, Stat=4 
+2018/08/14 11:31:13.277: PServer Login Status: HostId#87, Stat=5 
+2018/08/14 11:31:13.294: PServer Login Status: HostId#83, Stat=5 
+2018/08/14 11:31:13.311: PServer Login Status: HostId#88, Stat=5 

@@ -1,0 +1,22 @@
+D:\Users\sp\C#\dev\spapiApp\spapiApp\bin\Release\spapiApp.exe.config
+D:\Users\sp\C#\dev\spapiApp\spapiApp\bin\Release\spapiApp.exe
+D:\Users\sp\C#\dev\spapiApp\spapiApp\bin\Release\spapiApp.pdb
+D:\Users\sp\C#\dev\spapiApp\spapiApp\obj\Release\spapiApp.csprojResolveAssemblyReference.cache
+D:\Users\sp\C#\dev\spapiApp\spapiApp\obj\Release\spapiApp.frmInput.resources
+D:\Users\sp\C#\dev\spapiApp\spapiApp\obj\Release\spapiApp.frmLogin.resources
+D:\Users\sp\C#\dev\spapiApp\spapiApp\obj\Release\spapiApp.frmMain.resources
+D:\Users\sp\C#\dev\spapiApp\spapiApp\obj\Release\spapiApp.Properties.Resources.resources
+D:\Users\sp\C#\dev\spapiApp\spapiApp\obj\Release\spapiApp.csproj.GenerateResource.Cache
+D:\Users\sp\C#\dev\spapiApp\spapiApp\obj\Release\spapiApp.exe
+D:\Users\sp\C#\dev\spapiApp\spapiApp\obj\Release\spapiApp.pdb
+C:\VC Program\SP_VC\spapiApp\spapiApp\bin\Release\spapiApp.exe.config
+C:\VC Program\SP_VC\spapiApp\spapiApp\obj\Release\spapiApp.exe
+C:\VC Program\SP_VC\spapiApp\spapiApp\obj\Release\spapiApp.pdb
+C:\VC Program\SP_VC\spapiApp\spapiApp\bin\Release\spapiApp.exe
+C:\VC Program\SP_VC\spapiApp\spapiApp\bin\Release\spapiApp.pdb
+C:\VC Program\SP_VC\spapiApp\spapiApp\obj\Release\spapiApp.frmInput.resources
+C:\VC Program\SP_VC\spapiApp\spapiApp\obj\Release\spapiApp.frmLogin.resources
+C:\VC Program\SP_VC\spapiApp\spapiApp\obj\Release\spapiApp.frmMain.resources
+C:\VC Program\SP_VC\spapiApp\spapiApp\obj\Release\spapiApp.Properties.Resources.resources
+C:\VC Program\SP_VC\spapiApp\spapiApp\obj\Release\spapiApp.csproj.GenerateResource.Cache
+C:\VC Program\SP_VC\spapiApp\spapiApp\obj\Release\spapiApp.csprojResolveAssemblyReference.cache
